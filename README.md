@@ -6,9 +6,9 @@ Coding is something I enjoy and for the last three years I have been finding rea
 
 Side note: The card game is called Oh Hell! and it may even have some other names, my family calls it Up and Down the River so I prefer that name but you may see it called something else depending on the person.
 
-## Game Rules
+## Quick Rundown About Game 
 
-The game involves multiple rounds, where cards are dealt and players must place a bid, how many tricks they can win with their hand. The number of cards dealt depends on the number of players, the card count starts high on the first round, and goes down to two cards and back up, hence the name ‘Up and Down the River’. There is a trump card that is shown after dealing cards, displaying the trump suit for that round. A card of the trump suit is worth more points than any suit but can only be played if the starting card for that trick was a trump suit or the player does not have any cards matching the starting suit. After all cards are played, winners who won what they bid will have their bid + 10 points added to their score. 
+The game involves multiple rounds, where cards are dealt and players must place a bid, how many tricks they can win with their hand based on suit and values. The number of cards dealt depends on the number of players, the card count starts high on the first round, and goes down to two cards and back up, hence the name ‘Up and Down the River’. There is a trump card that is shown after dealing cards, displaying the trump suit for that round. A card of the trump suit is worth more points than any suit but can only be played if the starting card for that trick was a trump suit or the player does not have any cards matching the starting suit. After all cards are played, winners who won what they bid will have their bid + 10 points added to their score. 
 
 
 Here is a video demo of the game being played:
